@@ -2,7 +2,9 @@
 
 # KZ Light Time
 
-(Neptune/Jupiter/Moon)
+(Neptune/Jupiter/Moon/Saturn)
+
+w = (Q * Y * M) / P
 
 x = (((Q * U * M) / (P * 8)) / K)
 
